@@ -1,0 +1,13 @@
+git config --global user.name "Prénom Nom"
+
+git config --global user.email "votreemail@t"
+
+git config --global --list
+
+git status
+
+git add nomdufichier
+
+git commit -m "message"
+
+git push
